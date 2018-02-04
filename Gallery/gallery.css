@@ -1,0 +1,13 @@
+#image{
+    width: 30%;
+    margin: 5px;  
+    
+}
+#image:hover {
+/*
+    -ms-transform: scale(1.5); 
+    -webkit-transform: scale(1.5); 
+*/
+    width:35%; 
+    transition: all 2s ease;
+}

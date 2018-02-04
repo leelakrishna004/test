@@ -1,0 +1,78 @@
+
+#img_slider{
+	width: 100%;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 5px;
+    opacity: 0.99;    
+}
+
+#ieee_title {
+    width: 25%;
+	text-align: center;
+	font-size: 2.5vw;
+	font-family: calibri; 
+    margin: auto;
+    color:white;
+    font-weight: 200;
+    background-color: orange;
+    border-radius: 100px 10px 100px 10px;
+}
+
+#about_ieee_img{
+/*    border: 10px solid;*/
+    width: 100%;
+    float: left;
+    height: auto;
+/*    border:1px solid;*/
+
+
+}
+#about_ieee_text{
+    padding: 5px;
+/*    border: 1px solid;*/
+    font-size: 1.5vw;
+}
+
+#iiitdm_title {
+    width: 25%;
+	text-align: center;
+	font-size: 2.5vw;
+	font-family: calibri; 
+    margin: auto;
+    color:white;
+    font-weight: 200;
+    background-color: royalblue;
+    border-radius: 100px 10px 100px 10px;
+}
+
+#about_iiitdm_img{
+/*    border: 10px solid;*/
+    width: 100%;
+    height: auto;
+/*    border:1px solid;*/
+
+
+}
+#about_iiitdm_text{
+    padding: 5px;
+/*    border: 1px solid;*/
+    font-size: 1.5vw;
+}
+#t_img{
+    width:20%;
+    float: left;
+/*    border: 1px solid;*/
+    margin-right:10px 
+}
+#t_text{
+/*    border: 1px solid;*/
+    font-size: 100%;
+    float: left;
+    font-family: serif; 
+    text-align: justify;    
+}
+#t{
+/*    border: 1px solid;*/
+}
+
